@@ -15,7 +15,7 @@ script/script = ExtResource( 1 )
 
 [node name="Sprite" type="Sprite" parent="KinematicBody2D"]
 
-transform/pos = Vector2( 553.913, 296.991 )
+transform/pos = Vector2( 525.995, 304.757 )
 texture = ExtResource( 2 )
 hframes = 20
 
